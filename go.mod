@@ -1,4 +1,4 @@
-module github.com/BedirMirac/CurrencyConverter
+module github.com/bedirmirac/CurrencyConverter
 
 go 1.25.6
 
